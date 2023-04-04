@@ -1,0 +1,17 @@
+[
+	{
+		"Name": "intab",
+		"Description": "Open files in new tab in active Micro session",
+		"Tags": ["tabs", "session", "new tab"],
+        "Website": "https://github.com/Nikitamuraviev10/micro-intab.git",
+		"Versions": [
+			{
+				"Version": "0.0.1",
+				"Url": "https://github.com/Nikitamuraviev10/micro-intab.git",
+				"Require": {
+					"micro": ">=1.3.2"
+				}
+			}
+		]
+	}
+]
